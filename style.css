@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+.navbar {
+  background-color: #d3f4ff;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #91cce0;
+}
+#projects {
+  background-color: #d3f4ff;
+}
+.bg {
+  font-size: 20px;
+  background-color: #d3f4ff;
+  text-align: center;
+  color: black;
+}
+.bg a {
+  color: black;
+}
+section {
+  padding-top: 5rem;
+}
